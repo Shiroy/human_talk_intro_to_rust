@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Introduction to Rust",
+    "packageVersion": "0.0.1",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "shiroy",
+    "githubRepository": "human_talk_intro_to_rust"
+  }
+}
